@@ -1,4 +1,4 @@
-name := "$name$"
+name := "$name;format="Camel"$"
 
 organization := "$organization$"
 
